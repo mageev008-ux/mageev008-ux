@@ -19,8 +19,8 @@ print("Hello, World")
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mageev008-ux&layout=compact&theme=gruvbox_light)
 ---
 ## Мои любимые гифки:
-![name](https://www.image2url.com/r2/default/gifs/1791898047491-3ed01735-3ded-4bfb-9b9c-04166277f019.gif)
-![name](https://giphy.com)
+![name](https://img2url.org/i/2f4c6e342602df2c7dfd6b56)
+![name](https://tenor.com/ru/view/clapping-black-cat-handshake-cat-memes-cat-gif-18082909397710507923)
 
 
 
