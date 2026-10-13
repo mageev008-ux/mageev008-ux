@@ -20,7 +20,7 @@ print("Hello, World")
 ---
 ## Мои любимые гифки:
 ![name](https://img2url.org/i/2f4c6e342602df2c7dfd6b56)
-![name](https://tenor.com/ru/view/clapping-black-cat-handshake-cat-memes-cat-gif-18082909397710507923)
+![name](https://media1.tenor.com/m/-vNmSjQbj5MAAAAd/clapping-black-cat.gif)
 
 
 
