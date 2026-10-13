@@ -2,7 +2,7 @@
 ## что я умею?
 1. кушать
 2. спате
-3. писать 
+3. писать:
 ```python
 print("Hello, World")
 ```
@@ -12,13 +12,14 @@ print("Hello, World")
 ![name](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![name](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Статистика
+## **Статистика**
 <!-- Карточка с активностью -->
-![GitHub Streak](https://streak-stats.demolab.com?user=mageev008-ux&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mageev008-ux&theme=gruvbox_light)
 <!-- Карточка с языками программирования -->
-![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mageev008-ux&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mageev008-ux&layout=compact&theme=gruvbox_light)
 ---
-
+## Мои любимые гифки:
+![name](https://web.telegram.org/c55f85f4-c5cf-4df8-a2b2-ab4d0189d027.gif)
 
 
 
